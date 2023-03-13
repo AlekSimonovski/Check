@@ -5,7 +5,7 @@ class Smetka {
 	public static void main(String[] args) {
 		/// jabolki - 50 den kg, krusi - 60 den kg, grozje - 100den kg
 
-double smetka = 0;
+double smetka = 0; // INICIJALIZACIJA NA SMETKA
 
 System.out.println("Vnesi sto si pazaruval vo kilogrami");
 
